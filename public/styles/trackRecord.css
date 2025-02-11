@@ -33,13 +33,3 @@
     object-fit: cover;
     border-radius: 8px;
   }
-  
-  @media (max-width: 768px) {
-    .content-wrapper {
-      flex-direction: column;
-    }
-    
-    .track-record img {
-      height: 300px;
-    }
-  }

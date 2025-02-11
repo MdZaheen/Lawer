@@ -59,23 +59,3 @@
     transform: translateY(-2px);
   }
   
-  @media (max-width: 1024px) {
-    .hero-section {
-      flex-direction: column;
-      text-align: center;
-    }
-    
-    .hero-buttons {
-      justify-content: center;
-    }
-    
-    .hero-image img {
-      height: 400px;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .hero-content h1 {
-      font-size: 2.5rem;
-    }
-  }

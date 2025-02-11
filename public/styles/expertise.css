@@ -43,9 +43,3 @@
     color: #666;
     line-height: 1.6;
   }
-  
-  @media (max-width: 768px) {
-    .expertise-section {
-      padding: 4rem 5%;
-    }
-  }
