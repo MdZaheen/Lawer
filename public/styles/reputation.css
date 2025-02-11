@@ -1,0 +1,39 @@
+.reputation-section {
+    padding: 6rem 5%;
+    background-color: #f9fafb;
+  }
+  
+  .reputation-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .reputation-content h2 {
+    font-size: 2.5rem;
+    color: #000220;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  
+  .practice-areas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2.5rem;
+  }
+  
+  .area-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  
+  .area-card h3 {
+    color: #000220;
+    margin-bottom: 1rem;
+  }
+  
+  .area-card p {
+    color: #666;
+    line-height: 1.6;
+  }
