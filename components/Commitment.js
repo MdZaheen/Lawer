@@ -1,7 +1,6 @@
 import React from 'react';
 import '../public/styles/commitment.css';
 
-
 const Commitment = () => {
   return (
     <section className="commitment-section">
@@ -10,11 +9,11 @@ const Commitment = () => {
         <div className="commitment-grid">
           <div className="commitment-card">
             <h3>Ethical Practice</h3>
-            <p>Strict adherence to legal ethics and professional standards</p>
+            <p>Strict adherence to legal ethics and professional standards.</p>
           </div>
           <div className="commitment-card">
             <h3>Client Focus</h3>
-            <p>Personalized attention to every case</p>
+            <p>Personalized attention to every case.</p>
           </div>
         </div>
         <button className="cta-button">View Case Studies</button>

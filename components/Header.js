@@ -2,7 +2,6 @@ import React from 'react';
 import '../public/styles/header.css';
 
 const Header = () => {
-
   return (
     <header className="header">
       <div className="logo">Juris Advocate</div>
@@ -14,7 +13,7 @@ const Header = () => {
         <a href="#faq">FAQ</a>
       </nav>
     </header>
-);
+  );
 };
 
 export default Header;
